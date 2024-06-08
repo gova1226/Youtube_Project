@@ -1,4 +1,4 @@
-YouTube-Data-Harvesting-and-Warehousing-using-SQL-and-Streamlit
+YouTube-Data-Harvesting-and-Warehousing-using-MySQL-and-Streamlit
 
 **INTRODUCTION:**
 * The project about Building a simple dashboard or UI using Streamlit.
