@@ -36,21 +36,29 @@ Google API
 Streamlit
 
 📚 Packages and Libraries
+
 google-api-python-client
 👉 import googleapiclient.discovery
 👉from googleapiclient.errors import HttpError
+
 mysql-connector-python
 👉 import mysql.connector
+
 SQLAlchemy
 👉 from sqlalchemy import create_engine
+
 pandas
 👉 import pandas as pd
+
 streamlit
 👉 import streamlit as st
+
 streamlit_option_menu
 👉 from streamlit_option_menu import option_menu
+
 plotly
 👉 import plotly.express as px
+
 pillow
 👉 from PIL import Image
 
@@ -62,6 +70,7 @@ The data collection process involved retrieving various data points from YouTube
 
 📋Data Analysis:
 By using YouTube channel data stored in the MySQL database, performed MySQL queries to answer 10 questions about the YouTube channels. When selecting a question, the results will be displayed in the Streamlit application in the form of tables.
+
 📊 Data Visualization:
 By using YouTube channel data stored in the MySQL database, The data was presented in visually appealing charts and graphs using Plotly. when selecting a Query, the visualization diplayed in streamlit application
 
