@@ -1,41 +1,42 @@
-YouTube-Data-Harvesting-and-Warehousing-using-MySQL-and-Streamlit
+**YouTube-Data-Harvesting-and-Warehousing-using-MySQL-and-Streamlit**
 
-**INTRODUCTION:**
+**📘INTRODUCTION:**
 * The project about Building a simple dashboard or UI using Streamlit.
 * Retrieve YouTube channel data with the help of Google API.
 * Stored the data in MySQL database,with the help of MySQL workbench.
 * Enabling querying of the data using MySQL and Visualize the data within the Streamlit.
 
-**DOMAIN:** 
+**📱DOMAIN:** 
 * Social Media
 
-**SKILLS TAKEAWAY:**
+**🎨SKILLS TAKEAWAY:**
 * Python scripting
 * Data Collection
 * Streamlit
 * API integration
 * Data Management using MySQL
 
-**OVERVIEW**
-**DATA HARVESTING:**
+**📘OVERVIEW**
+
+**🌾DATA HARVESTING:**
 * Utilizing the YouTube API to collect data such as channel information, comments, and video details.
 
-**DATA STORAGE:**
+**📥DATA STORAGE:**
 * Setting up a local MySQL database using MySQL workbench.
 * Creating tables to store the harvested YouTube data.
 * Using SQL scripts to insert the collected data into the database.
 
-**DATA ANALYSIS and VISUALIZATION:**
+**📊DATA ANALYSIS:**
 * Developing a Streamlit application to interact with the MySQL database.
-* Creating visualizations and performing analysis on the stored YouTube data
+* Performing analysis on the stored YouTube data
 
-**TECHNOLOGY AND TOOLS**
+**🛠 TECHNOLOGY AND TOOLS**
 Python 3.12.1
 MySQL
 Google API
 Streamlit
 
-**Packages and Libraries**
+**📚Packages and Libraries**
 
 google-api-python-client
 👉 import googleapiclient.discovery
@@ -53,7 +54,7 @@ streamlit
 streamlit_option_menu
 👉 from streamlit_option_menu import option_menu
 
-**DATA COLLECTION:**
+**📚 DATA COLLECTION:**
 The data collection process involved retrieving various data points from YouTube using the YouTube Data API. Retrieve channel information, videos details, playlists and comments.
 
 **💾 Database Storage:**
