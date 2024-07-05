@@ -65,5 +65,5 @@ By using YouTube channel data stored in the MySQL database, performed MySQL quer
 
 **📘 Usage:**
 Enter a YouTube channel ID or name in the input field in Data collection option from sidebar menu.
-Click the "Data Collection & Upload" button to fetch and store channel data in the SQL database.
+Click the "Data Collection & Upload" button to fetch and store channel data in the MySQL database.
 Select Analysis option from the sidebar menu to analyze data.
