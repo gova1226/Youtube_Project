@@ -276,6 +276,8 @@ if opt == "Home": #checks if the selected option from the sidebar menu is "Home"
     st.markdown('''+91 98942-27346''')
     st.subheader(':blue[Email:]')
     st.markdown('''govardhananprema@gmail.com''')
+    st.subheader(':blue[LinkedIn:]')
+    st.markdown('''www.linkedin.com/in/govardhanan-g-1b2770102''')
 
 elif opt == "Data Collection and Upload": #checks if the selected option from the sidebar menu is "Data Collection and Upload"
     st.title(':blue[Data Collection and Upload]')
