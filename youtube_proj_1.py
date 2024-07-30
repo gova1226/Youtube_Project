@@ -1,6 +1,6 @@
 #interact with the YouTube API
 import googleapiclient.discovery
-import googleapiclient.errors
+#import googleapiclient.errors
 import mysql.connector as db #connect to the MySQL database
 import streamlit as st #create the Streamlit web app
 import pandas as pd #data manipulation and analysis
