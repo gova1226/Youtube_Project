@@ -1,0 +1,14 @@
+Required Tools:
+1.Virtual code
+2.Jupyter notebook
+3.Python 3.12.1
+4.MySQL
+5.Youtube API key
+
+Required Libraries:
+1.googleapiclient.discovery
+2.googleapiclient.errors
+3.mysql.connector
+4.pandas
+5.streamlit
+6.streamlit_option_menu
